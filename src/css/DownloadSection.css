@@ -1,0 +1,16 @@
+.download-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #28a745;
+    color: white;
+  }
+  
+  .download-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: white;
+    color: #28a745;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
